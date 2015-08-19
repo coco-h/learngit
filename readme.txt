@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Hello Github,I'm kenkon. I will be a graet coder!
+I love Coco.
